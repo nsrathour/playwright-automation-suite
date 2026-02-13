@@ -37,16 +37,6 @@ npx playwright test --headed
 5. View HTML report:
 npx playwright show-report
 
-## Project Structure
-
-playwright-test-automation
-│
-├── tests/
-│   └── saucedemo.spec.js
-├── playwright.config.js
-├── package.json
-└── README.md
-
 ## What I Learned
 
 - How to write basic Playwright tests
