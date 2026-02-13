@@ -1,0 +1,15 @@
+Playwright ka new setup by default ES Modules use karta hai.
+
+Matlab:
+
+import
+
+export
+
+Old Node style hota hai:
+
+require
+
+module.exports
+
+Dono mix nahi kar sakte.
