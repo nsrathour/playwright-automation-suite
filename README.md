@@ -43,6 +43,6 @@ npx playwright show-report
 - How to use locators and assertions
 - Difference between headless and headed mode
 - How to generate test reports
-- How to push a project to GitHub
+- Solve some error regarding the code
 
 This project is created for learning and practice.
